@@ -14,7 +14,7 @@ const Doclist = (props) => {
                 <Card.Text>{description}
                 </Card.Text>
                 {/* <Button className='appoinment' href='/appoinment'>Appoinment</Button> */}
-                <NavLink to="/appoinment"> <Button variant="outline-dark">Appoinment</Button> </NavLink>
+                <NavLink to="/register"> <Button variant="outline-dark">Appoinment</Button> </NavLink>
                 </Card.Body>
             </Card>
         </div>

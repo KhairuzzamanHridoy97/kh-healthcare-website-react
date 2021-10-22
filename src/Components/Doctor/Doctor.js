@@ -13,7 +13,7 @@ const Doctor = (props) => {
                 <Card.Title>{name}</Card.Title>
                 <Card.Text>{description}
                 </Card.Text>
-                <NavLink to="/appoinment"> <Button variant="outline-dark">Appoinment</Button> </NavLink>
+                <NavLink to="/register"> <Button variant="outline-dark">Appoinment</Button> </NavLink>
                 </Card.Body>
             </Card>
         </div>

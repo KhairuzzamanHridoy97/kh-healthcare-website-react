@@ -10,7 +10,7 @@ const About = () => {
             <h3 className='m-3'><i>
                 KH Medicare Hospital has been in existence since 1989. It is approved by concerned authorities like Directorate General of Health Services, Dhaka City Corporation, Ministry of Environment, Ministry of Health and Family Welfare, Bangladesh Atomic Energy Commission.
 
-                Labaid Diagnostic Centre prides itself on its commitment to the patients and is constantlystriving to improve diagnostic performance and heightened satisfaction of patients and physicians delight.</i>
+                KH Medicare Hospital prides itself on its commitment to the patients and is constantlystriving to improve diagnostic performance and heightened satisfaction of patients and physicians delight.</i>
             </h3><br /> <br />
         </div>
         <div>
