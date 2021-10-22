@@ -1,6 +1,5 @@
 import Button from '@restart/ui/esm/Button';
 import React from 'react';
-import { Card, Container, ProgressBar } from 'react-bootstrap';
 
 const About = () => {
     return (
