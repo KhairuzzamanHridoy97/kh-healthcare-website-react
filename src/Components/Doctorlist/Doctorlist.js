@@ -11,8 +11,8 @@ const Doctorlist = () => {
     },[])
     return (
         <div>
-            <h2 className="text-danger m-5"><i>Doctors List</i></h2>
-            <Container>
+            <h2 className="font-bold text-3xl my-3" style={{color:'purple'}}><i>Doctors List</i></h2>
+            
             <Container>
                 <Row xs={1} md={3} direction="horizontal" gap={3} className="g-3">
 
@@ -22,7 +22,6 @@ const Doctorlist = () => {
 
                 </Row>
 
-            </Container>
             </Container>
         </div>
     );

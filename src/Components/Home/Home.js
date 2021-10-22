@@ -7,10 +7,10 @@ const Home = () => {
     return (
         <div className="m-2">
             <Banner></Banner>
-            <h1 className='text-primary m-5'>Our Doctors</h1>
+            <h1 className="font-bold text-3xl my-5" style={{color:'red'}}>Our Doctors</h1>
             <Doctors></Doctors>
             <div>
-            <h3 className='text-primary m-5'>Our Progress (2017-2020)</h3>
+            <h3 className="font-bold text-2xl my-5" style={{color:'purple'}}>Our Progress (2017-2020)</h3>
             <Container className=''>
             <ProgressBar  variant="success" now={40} /> <br />
             <ProgressBar striped variant="info" now={20} /> <br />
