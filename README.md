@@ -1,6 +1,21 @@
-# Getting Started with Create React App
+# # Assignment 10 About Healthcare Website
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+## Using Tech
+  *React Router
+  *React Bootstrap
+  *Firebase 
+
+### Patient can easily check appoinment in this website.
+In this website patient can  easily check appoinment in this website.
+
+### Benefits 
+*Fast Loading 
+*Safe sucures login system
+
+### Extra Login 
+*User can easily login our website by google
 
 ## Available Scripts
 
