@@ -1,4 +1,4 @@
-# # Assignment 10 About Healthcare Website
+# #  Healthcare Website
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -8,7 +8,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
   *Firebase 
 
 ### Patient can easily check appoinment in this website.
-In this website patient can  easily check appoinment in this website.
+In this website patient can  easily book appoinment for their slot .
 
 ### Benefits 
 *Fast Loading 
